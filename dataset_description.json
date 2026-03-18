@@ -1,0 +1,19 @@
+{
+    "Name": "Encoding of female mating dynamics by a hypothalamic line attractor",
+    "BIDSVersion": "1.10",
+    "HEDVersion": "8.3.0",
+    "Description": "This dataset provides neural and behavioural annotation data from the paper: \"Encoding of female mating dynamics by a hypothalamic line attractor\". Data is stored in the NWB format and contains GCaMP traces, behavioural annotation (timing of behaviour), low-dimensional latent factors from dynamical models and other metadata.",
+    "DatasetType": "raw",
+    "Authors": [
+        "Nair, Aditya"
+    ],
+    "License": "CC-BY-4.0",
+    "GeneratedBy": [
+        {
+            "Name": "nwb2bids",
+            "Version": "0.9.1.dev27+gf0fb7253c",
+            "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
+            "CodeURL": "https://github.com/con/nwb2bids"
+        }
+    ]
+}
